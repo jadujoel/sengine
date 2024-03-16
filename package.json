@@ -10,7 +10,7 @@
   "keywords": [],
   "author": "joe.lof@icloud.com",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "smanager": "1.4.1",
     "tslib": "2.6.2",
     "typescript": "5.4.2"
